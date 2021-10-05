@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JadeGrey
+- 👀 I’m interested in Exploiting and Coding
+- 🌱 I’m currently learning C#, JavaScript
+- 💞️ I’m looking to collaborate on Game Hacking and Exploiting
+- 📫 How to reach me (no way currently)
