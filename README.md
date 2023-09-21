@@ -28,7 +28,7 @@ As an aspiring Software Engineer, I'm committed to delivering quality software t
 
 - Email: [samisyverson06@gmail.com](mailto:samisyverson06@gmail.com)
 - GitHub: [@JadeGrey](https://github.com/JadeGrey)
-- Discord: Jade#0420, [Null's Cafe](https://discord.gg/UXRhCZUwyz)
+- Discord: jade.grey, [Null's Cafe](https://discord.gg/UXRhCZUwyz)
 
 ## Personal Attributes
 
