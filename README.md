@@ -19,7 +19,7 @@ As an aspiring Software Engineer, I'm committed to delivering quality software t
 
 ## Education
 
-**Pine Technical and Community College (PSEO)**
+**Pine Technical and Community College**
 
 - Degree: Associate Arts
 - Graduation Year: 2025
